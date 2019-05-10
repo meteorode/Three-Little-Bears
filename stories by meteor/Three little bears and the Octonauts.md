@@ -16,4 +16,6 @@
 ## Text / 文本
 
 
-## Yonkoma / 四格
+## Yonkoma / 四格 
+
+![三只小灰熊和海底小纵队](https://meteorode.files.wordpress.com/2019/05/three-little-bears-and-the-octonauts.jpg)
